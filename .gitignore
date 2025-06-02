@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.log
+venv/
+.cache/
+*.tokenizers.json
+*.db
+*.sqlite
+*.npz
+*.bin
+*.pt
+*.pth
